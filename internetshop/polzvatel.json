@@ -1,0 +1,26 @@
+[
+    {
+        "id":0,
+        "type":"pokypatel",
+        "number":"8-900-574-32-12",
+        "Email":"zxc@mail.ru",
+        "pasword":"8877",
+        "del":false
+    },
+    {
+        "id":1,
+        "type":"prodavec",
+        "number":"8-900-644-78-76",
+        "Email":"dast123@gmail.ru",
+        "pasword":"654123",
+        "del":false
+    },
+    {
+        "id":0,
+        "type":"menedger",
+        "number":"8-900-574-66-55",
+        "Email":"asd@mail.ru",
+        "pasword":"123567",
+        "del":false
+    }
+]

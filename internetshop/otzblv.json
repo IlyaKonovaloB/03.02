@@ -1,0 +1,23 @@
+[
+    {
+        "id":0,
+        "id_pocupatela":123,
+        "id_tovara":123412,
+        "ocenka":5,
+        "Comment":"Коментарий"
+    },
+    {
+        "id":1,
+        "id_pocupatela":12, 
+        "id_tovara":12412,
+        "ocenka":5,
+        "Comment":"Коментарий"
+    },
+    {
+        "id":2,
+        "id_pocupatela":75,
+        "id_tovara":48485,
+        "ocenka":5,
+        "Comment":"Коментарий"
+    }
+]
